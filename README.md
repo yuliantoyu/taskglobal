@@ -1,3 +1,5 @@
+laravel  : versi 8
+livewire : versi 2
 running   : php artisan serve <br>
 database : task di folder database <br> 
 username : admin@example.com <Br>
