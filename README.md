@@ -1,4 +1,4 @@
-running  : php artisan serve
-database : task di folder database 
-username : admin@example.com
+running  : php artisan serve <br>
+database : task di folder database <br> 
+username : admin@example.com <Br>
 password : password
